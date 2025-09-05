@@ -1,8 +1,0 @@
-# Transactions for testing
-Alice,+200
-Bob,-50
-Craig,+25
-Bob,-1200   # overdraft, should warn
-Dora,+10    # new name, your choice: add or skip
-Alice,-100
-Craig,-800
